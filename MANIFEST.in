@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include naufaltheme_ii *.css
+recursive-include naufaltheme_ii *.csv
+recursive-include naufaltheme_ii *.html
+recursive-include naufaltheme_ii *.ico
+recursive-include naufaltheme_ii *.js
+recursive-include naufaltheme_ii *.json
+recursive-include naufaltheme_ii *.md
+recursive-include naufaltheme_ii *.png
+recursive-include naufaltheme_ii *.py
+recursive-include naufaltheme_ii *.svg
+recursive-include naufaltheme_ii *.txt
+recursive-exclude naufaltheme_ii *.pyc
